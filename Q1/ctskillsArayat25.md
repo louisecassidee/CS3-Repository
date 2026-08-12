@@ -49,14 +49,14 @@ Main Problem: The canteen's current lunch system is inefficient, causing long li
 <br> Step 4: Draw a flowchart or write a pseudocode for the identified sub-problem 
 
 <br> Define menu dataset
-<br> &nbsp; Input menu items
-<br> &nbsp; Input items' price
-<br> &nbsp; Input item quantity
+<br> &nbsp;&nbsp; Input menu items
+<br> &nbsp;&nbsp; Input items' price
+<br> &nbsp;&nbsp; Input item quantity
 
 Input student's order 
-<br> &nbsp; indicate item, quantity, and payment amount 
-<br> &nbsp; store item and quantity in defined 'orders' dataset for tracking inventory
-<br> &nbsp; define variable "payment" as student's given payment
+<br> &nbsp;&nbsp; indicate item, quantity, and payment amount 
+<br> &nbsp;&nbsp; store item and quantity in defined 'orders' dataset for tracking inventory
+<br> &nbsp;&nbsp; define variable "payment" as student's given payment
 
 Input items' price and quantity
 <br> &nbsp;&nbsp;  multiply item quantity to corresponding price
