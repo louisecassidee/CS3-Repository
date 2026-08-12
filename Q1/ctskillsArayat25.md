@@ -11,7 +11,7 @@ Section: 9 - Arayat
 Score: ______________
 <br> Date: August 13, 2026
 
-<br><br> Scenario
+<br>Scenario
 
 The PSHS school canteen is small and often gets crowded during lunch break. Students line up to buy food, but the process is slow because:
 
