@@ -46,7 +46,7 @@ Main Problem: The canteen's current lunch system is inefficient, causing long li
 |Long lines form because the ordering and payment process is slow. | Decomposition | Divide the student body into smaller groups and create an organized schedule where batches have alternating lunch times. |
 
 
-<br> Step 4: Draw a flowchart or write a pseudocode for the identified sub-problem 
+<br> Step 4: Draw a flowchart or write a pseudocode for the identified sub-problem:
 
 <br> Define menu dataset
 <br> &nbsp;&nbsp; Input menu items
