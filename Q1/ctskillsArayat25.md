@@ -40,30 +40,30 @@ Main Problem: The canteen's current lunch system is inefficient, causing long li
 
 | Sub-Problem | CT Skill | Example Solution |
 | --- | --- | --- |
-|Students take too long to decide what to order. | Pattern Recognition | Make a list of best-sellers and provide a digital copy of the menu so that students can decide before entering the canteen. |
-|The cashier manually calculates the total and change. | Algorithm Design | Create a program that accurately calculates the total and change. |
-|There is no system for tracking food inventory and items that are running out. | Abstraction | Create a digital inventory that can be updated regularly. |
-|Long lines form because the ordering and payment process is slow. | Decomposition | Create an organized schedule where batches have alternating lunch breaks. |
+|Students take too long to decide what to order. | Pattern Recognition | Identify best-selling food items and provide a digital copy of the menu so that students can decide before entering the canteen. |
+|The cashier manually calculates the total and change. | Algorithm Design | Create a program that follows steps to accurately calculate the total and change. |
+|There is no system for tracking food inventory and items that are running out. | Abstraction | Create a digital inventory that focuses on item name and quantity and can be updated regularly. |
+|Long lines form because the ordering and payment process is slow. | Decomposition | Divide the student body into smaller groups and create an organized schedule where batches have alternating lunch times. |
 
 
 <br> Step 4: Draw a flowchart or write a pseudocode for the identified sub-problem 
 
 <br> Define menu dataset
-- Input menu items
-- Input items' price
-- Input item quantity
+<br> &nbsp; Input menu items
+<br> &nbsp; Input items' price
+<br> &nbsp; Input item quantity
 
-Input order (choose from given menu/dataset)
-- indicate item, quantity, and payment amount 
-- store item and quantity in defined 'orders' dataset for tracking inventory
-- define variable "payment" as student's given payment
+Input student's order 
+<br> &nbsp; indicate item, quantity, and payment amount 
+<br> &nbsp; store item and quantity in defined 'orders' dataset for tracking inventory
+<br> &nbsp; define variable "payment" as student's given payment
 
 Input items' price and quantity
-- multiply item quantity to corresponding price
+<br> &nbsp;&nbsp;  multiply item quantity to corresponding price
 
 Define variable total
-- Add all items' price for the total
-- calculate change = payment - total
+<br> &nbsp;&nbsp;  Add all items' price for the total
+<br> &nbsp;&nbsp;  calculate change = payment - total
 
 
 
