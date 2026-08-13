@@ -21,7 +21,7 @@ The PSHS school canteen is small and often gets crowded during lunch break. Stud
 Your group’s task is to decompose this problem into smaller, manageable parts that could be solved with computational thinking (CT) Skills.
 
 
-## <br><br> Step 1: Identify the Big Problem
+## <br> Step 1: Identify the Big Problem
 
 Main Problem: The canteen's current lunch system is inefficient, causing long lines and crowdedness. 
 
