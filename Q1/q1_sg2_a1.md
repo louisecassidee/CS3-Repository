@@ -1,6 +1,5 @@
 
-Annex A
-<br> Computational Thinking Exercise: "Smart School Canteen Queue"
+# Annex A <br> Computational Thinking Exercise: "Smart School Canteen Queue"
 
 Section: 9 - Arayat  
 
@@ -22,11 +21,11 @@ The PSHS school canteen is small and often gets crowded during lunch break. Stud
 Your group’s task is to decompose this problem into smaller, manageable parts that could be solved with computational thinking (CT) Skills.
 
 
-<br><br> Step 1: Identify the Big Problem
+## <br><br> Step 1: Identify the Big Problem
 
 Main Problem: The canteen's current lunch system is inefficient, causing long lines and crowdedness. 
 
-<br> Step 2: Identify three to four Sub-Problems:
+## <br> Step 2: Identify three to four Sub-Problems:
 
 1. Students take too long to decide what food to order.
 
@@ -36,7 +35,7 @@ Main Problem: The canteen's current lunch system is inefficient, causing long li
 
 4. Long lines form because the ordering and payment process is slow.
 
-<br> Step 3: Define Computational Thinking Approaches:
+## <br> Step 3: Define Computational Thinking Approaches:
 
 | Sub-Problem | CT Skill | Example Solution |
 | --- | --- | --- |
@@ -46,9 +45,8 @@ Main Problem: The canteen's current lunch system is inefficient, causing long li
 |Long lines form because the ordering and payment process is slow. | Decomposition | Divide the student body into smaller groups and create an organized schedule where batches have alternating lunch times. |
 
 
-<br> Step 4: Draw a flowchart or write a pseudocode for the identified sub-problem:
-
-<br> Define menu dataset
+## <br> Step 4: Draw a flowchart or write a pseudocode for the identified sub-problem:
+Define menu dataset
 <br> &nbsp;&nbsp; Input menu items
 <br> &nbsp;&nbsp; Input items' price
 <br> &nbsp;&nbsp; Input item quantity
