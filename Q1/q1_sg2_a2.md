@@ -35,44 +35,28 @@ Algorithm one is easier to understand at first glance because the logic and nami
 <br> **3. Maintainability**
 <br> If you had to add a new feature (like finding both max and min), which algorithm would be easier to update? Why?
 
-_________________________________________________________________
-
-_________________________________________________________________
-
-_________________________________________________________________
+ It would be easier to update the second algorithm since it tests every number individually, instead of looking for just the maximum. In this case, we can adjust the code so that it not only tests each number for the maximum value, but also for the minimum.
 
 <img width="823" height="162" alt="Screenshot 3226-08-06 120435" src="https://github.com/user-attachments/assets/954a576b-24ea-478a-a600-79aad23a406c" />
 
 <br> **4. Testability**
 <br> Which algorithm is easier to test with different inputs? Why?
 
-_________________________________________________________________
-
-_________________________________________________________________
-
-_________________________________________________________________
+Algorithm one is easier/simpler because it does a one-to-one comparison with the number after it—unlike algorithm two, which tests all numbers individually—making the current number the maximum until it finds a higher value.
 
 <img width="824" height="163" alt="Screenshot 3226-08-06 120644" src="https://github.com/user-attachments/assets/f0646e12-056d-4d45-9fe3-94a1ccf4f2a2" />
 
 <br> **5. Security**
 <br> Imagine the input list comes from a user. What should the algorithm check to avoid errors or misuse?
 
-_________________________________________________________________
-
-_________________________________________________________________
-
-_________________________________________________________________
+The algorithm should first check if the list contains any numbers before trying to find the highest value. It should also check whether the inputs are valid numbers and reject or handle inputs such as letters or other invalid characters. This helps prevent errors and keeps the algorithm from crashing when the user enters unexpected or unusual data. Adding these checks would make the algorithm safer and more reliable when handling different types of user input.
 
 <img width="824" height="184" alt="Screenshot 3226-08-06 120812" src="https://github.com/user-attachments/assets/b8c56102-2334-4065-a925-9e4bad71119f" />
 
 <br> **6. Final Answer**
 <br> Based on your answers from 1 to 5, which one is the better algorithm that you will use to solve the problem of finding the highest number? Why? Summarize your answer
 
-_________________________________________________________________
-
-_________________________________________________________________
-
-_________________________________________________________________
+Algorithm one is the better choice for finding the highest number because it is faster, simpler, and easier to understand. It uses fewer comparisons and does not repeat the same work unnecessarily, which makes it more efficient when working with a large list of numbers. Its straightforward logic also makes the code easier to read, modify, and maintain. Although algorithm one is already more efficient, adding checks for empty lists and invalid inputs would make it more reliable and safer to use.
 
  
 
