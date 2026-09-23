@@ -1,5 +1,5 @@
 # CS3-Repository
-Class number: 25
+Class Number: 25
 <br> Name: Louise Cassidy D. Panganiban
 <br> Section: 9 - Arayat
 
