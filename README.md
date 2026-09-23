@@ -9,4 +9,4 @@ Class number: 25
 <br><br> FA 2: https://github.com/louisecassidee/CS3-Repository/blob/14585d095f1d47635c1b9cce37b761a3f88d9b9d/Q1/q1_sg2_a3.md
 <br><br> FA 5: https://github.com/louisecassidee/CS3-Repository/blob/8f26264d0f1b4e88f5547b2429d54dd263947e71/Q1/q1_sg5_a1_arayat_panganiban.py
 <br><br> FA 6: https://github.com/louisecassidee/CS3-Repository/blob/3c25fcde122e8c3cc073643aae8a6af9bb63e908/Q1/q1_sg6_arayat_panganiban.py
-<br><br> FA 7: 
+<br><br> FA 7: https://github.com/louisecassidee/CS3-Repository/blob/c2522baa5f86329ee616afe47a7c200506d0e0df/Q1/q1_sg7_arayat_panganiban.py
